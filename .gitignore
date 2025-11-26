@@ -1,0 +1,26 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.wasm
+
+# Test binaries
+*_test
+
+# Editor/IDE specific files
+.vscode/ # VS Code settings
+.idea/ # IntelliJ IDEA settings
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+bin/
+pkg/
+
+# Dependency management
+vendor/ # If using manual vendoring
+
+# Logs and temporary files
+*.log
+*.tmp
