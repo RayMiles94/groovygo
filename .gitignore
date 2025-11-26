@@ -24,3 +24,4 @@ vendor/ # If using manual vendoring
 # Logs and temporary files
 *.log
 *.tmp
+main
